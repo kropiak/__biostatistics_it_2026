@@ -14,21 +14,29 @@ The document https://peps.python.org/pep-0020/ presents The Zen of Python, which
 
 ## 2. Getting started
 
-Najlepszym sposobem nauki umiejętności, które wymagają działania, jest działanie zgodnie z maksymą "learning by doing". Najważniejsze kocepty języka oraz wybrane elementy samego programowania zostaną przedstawione na przykładach zawartych w postaci notatnika Jupyter dostępnego w pliku ... . 
-Środowiskiem, w którym będziemy je uruchamić, przerabiać i uczyć się jest Google Colab. Jest to usługa, która pozwala na urchamianie notatników i fragmentów kodu bezpośrednio z okna przeglądarki bez konieczności lokalnej instalacji czegokolwiek. Poniżej zapisane są kolejne kroki niezbędne do uruchomienia podanego wcześniej notatnika.
+The best way to learn skills that require action is to follow the maxim “learning by doing.” The most important concepts of the language and selected elements of programming itself will be presented using examples contained in a Jupyter notebook available in the file **lab_01_intro_to_python.ipynb**.  
+The environment in which we will run, process, and learn them is Google Colab. It is a service that allows you to run notebooks and code snippets directly from your browser window without having to install anything locally. Below are the steps necessary to run the notebook mentioned above.
 
-**_Krok 1_**
+**_Step 1_**
 
-Zaloguj się na swoje konto Google (jeżeli go nie masz, wydaje się konieczne jego posiadanie, ale nie było to testowane przez prowadzącego).
+Log in into your Google Account (if you do not have any, you should create one) by using web browser on the computer.
 
-**_Krok 2_**
+**_Step 2_**
 
-Przejdź na adres [https://colab.research.google.com/](https://colab.research.google.com/).
+Visit the [https://colab.research.google.com/](https://colab.research.google.com/) address.
 
 **_Step 3_**
 
-Z menu **File** wybierz opcję **Open notebook** i znajdź opcję GitHub. Wklej tam adres notatnika 
+From the **File** menu choose an option **Open notebook** and find position **GitHub**. Paste the address of the notebook provided on this laboratory (file with the .ipynb extension - here the **[lab_01_intro_to_python.ipynb](lab_01_intro_to_python.ipynb)** file) and confirm. When the notebook opens in the browser move to next step.
 
 **_Step 4_**
 
-Postępuj zgodnie z instrukcjami zawartymi w notatniku.
+Create a copy of the notebook on your private Google Drive. Go to **File** menu and find option like **create a copy on your Drive** and choose it. 
+
+**_Step 5_**
+
+Follow the instructions placed within the opened notebook.
+
+**_Step 6_**
+
+When your work is finished, share the notebook with the lecturer by using the **Share** button inthe upper right corner. You should share this notebook by providing the lecturers email address: kaszpiro@gmail.com.
