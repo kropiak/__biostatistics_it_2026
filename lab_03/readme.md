@@ -12,7 +12,7 @@ Visit the [https://colab.research.google.com/](https://colab.research.google.com
 
 **_Step 3_**
 
-From the **File** menu choose an option **Open notebook** and find position **GitHub**. Paste the address of the notebook provided on this laboratory (file with the .ipynb extension - here the **[lab_03_pandas_intro.ipynb](lab_02_pandas_intro.ipynb)** file) and confirm. When the notebook opens in the browser move to next step.
+From the **File** menu choose an option **Open notebook** and find position **GitHub**. Paste the address of the notebook provided on this laboratory (file with the .ipynb extension - here the **[lab_03_pandas_intro.ipynb](lab_03_pandas_intro.ipynb)** file) and confirm. When the notebook opens in the browser move to next step.
 
 **_Step 4_**
 
